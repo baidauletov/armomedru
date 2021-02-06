@@ -1,2 +1,2 @@
 # armomedru
-clear fun
+Advanced JavaScript
